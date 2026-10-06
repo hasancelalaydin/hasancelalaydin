@@ -9,6 +9,18 @@
 </div>
 
 ---
+### 📌 Odaklandığım Alanlar & Proje Mimarileri
+
+| Alan | Kullandığım Teknolojiler | Odak Noktası |
+| :--- | :--- | :--- |
+| **Backend & API** | Python, SQL, REST API | Veri tabanı modelleme, yetkilendirme ve CRUD operasyonları |
+| **Frontend Geliştirme** | JavaScript, HTML5, CSS3 | Duyarlı (responsive) arayüzler ve dinamik kullanıcı deneyimi |
+| **Yazılım & Oyun Mekaniği** | Python, Pygame | Nesne yönelimli programlama (OOP) ve mantıksal algoritmalar |
+
+---
+
+### 💬 Benimle İletişime Geçin
+Projeler veya staj/iş fırsatları için bağlantı kurmaktan memnuniyet duyarım!
 
 ### 🚀 Hakkımda
 - 🎓 **Bilgisayar Mühendisliği** son sınıf öğrencisiyim.
