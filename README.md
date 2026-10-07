@@ -17,14 +17,6 @@
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler & Araçlar
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,postgres,git,github,vscode&theme=dark" />
-</p>
-
----
-
 ### 🛠️ Teknik Beceriler
 
 | Kategori | Teknolojiler & Beceriler |
