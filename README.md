@@ -2,8 +2,14 @@
   <h1>Merhaba, Ben Hasan Celal Aydın 👋</h1>
   <p><strong>Bilgisayar Mühendisliği Öğrencisi & Full-Stack Geliştirici</strong></p>
 
-  <a href="https://www.linkedin.com/in/hasan-celal-aydin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  
+  <p>
+    <a href="https://www.linkedin.com/in/hasan-celal-aydin/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:hasancelal.2005.1905@gmail.com">
+      <img src="https://img.shields.io/badge/E--Posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
 ---
@@ -11,8 +17,8 @@
 ### 🚀 Hakkımda
 - 🎓 **Bilgisayar Mühendisliği** son sınıf öğrencisiyim.
 - 💻 **Full-Stack Web Geliştirme**, **Veritabanı Mimarisi** ve **Yazılım Mühendisliği** alanlarına odaklanıyorum.
-- 🛠️ Güçlü backend API'leri, modern kullanıcı arayüzleri ve oyun mekanikleri geliştirmeye ilgi duyuyorum.
-- 🎯 Sürekli öğreniyor, gerçek dünya projeleri üretiyor ve temiz kod pratiklerini uyguluyorum.
+- 🛠️ Güçlü backend mimarileri, ilişkisel veritabanı tasarımları ve modern kullanıcı arayüzleri geliştiriyorum.
+- 🎯 Gerçek dünya senaryolarına yönelik yazılımlar üretiyor, staj ve kariyer fırsatları arıyorum.
 
 ---
 
@@ -24,9 +30,15 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📌 Uzmanlık & Odak Alanlarım
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasancelalaydin&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" alt="Hasan Celal İstatistikleri" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasancelalaydin&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="En Çok Kullanılan Diller" />
-</div>
+| Alan | Teknolojiler | Deneyim / Odak |
+| :--- | :--- | :--- |
+| **Backend & Veritabanı** | Python, SQL, PostgreSQL, MySQL | Veri modelleme, CRUD operasyonları, RESTful API tasarımı |
+| **Frontend Geliştirme** | JavaScript, HTML5, CSS3 | Duyarlı (responsive) tasarımlar, dinamik web arayüzleri |
+| **Yazılım & Algoritma** | Python, Pygame, Git | Nesne yönelimli programlama (OOP), sürüm kontrolü ve oyun mekanikleri |
+
+---
+
+### 📬 İletişim
+Projeler, staj imkanları veya iş birliği için yukarıdaki bağlantılardan veya e-posta üzerinden bana ulaşabilirsiniz.
