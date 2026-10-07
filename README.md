@@ -25,15 +25,16 @@
 
 ---
 
-### 📌 Uzmanlık & Odak Alanlarım
+### 🛠️ Teknik Beceriler
 
-| Alan | Teknolojiler | Deneyim / Odak |
-| :--- | :--- | :--- |
-| **Backend & Veritabanı** | Python, SQL, PostgreSQL, MySQL | Veri modelleme, CRUD operasyonları, RESTful API tasarımı |
-| **Frontend Geliştirme** | JavaScript, HTML5, CSS3 | Duyarlı (responsive) tasarımlar, dinamik web arayüzleri |
-| **Yazılım & Algoritma** | Python, Pygame, Git | Nesne yönelimli programlama (OOP), sürüm kontrolü ve oyun mekanikleri |
+| Kategori | Teknolojiler & Beceriler |
+| :--- | :--- |
+| **Programlama Dilleri** | C#, Python, JavaScript |
+| **Frontend Geliştirme** | JavaScript, HTML, CSS, Next.js, React |
+| **Backend & Veritabanı** | Node.js, SQL (MySQL), İlişkisel Veritabanı Tasarımı |
 
 ---
+
 
 ### 📬 İletişim
 Projeler, staj imkanları veya iş birliği için yukarıdaki bağlantılardan veya e-posta üzerinden bana ulaşabilirsiniz.
