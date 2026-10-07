@@ -11,7 +11,7 @@
 
 ### 🚀 Hakkımda
 - 🎓 **Bilgisayar Mühendisliği** son sınıf öğrencisiyim.
-- 💻 **Full-Stack Web Geliştirme**, **Veritabanı Mimarisi** ve **Yazılım Mühendisliği** alanlarına odaklanıyorum.
+- 💻 **Full-Stack Web Geliştirme**, **Mobil Uygulama Geliştirme**, **Veritabani Mimarisi** ve **Yazılım Mühendisliği** alanlarına odaklanıyorum.
 - 🛠️ Güçlü backend mimarileri, ilişkisel veritabanı tasarımları ve modern kullanıcı arayüzleri geliştiriyorum.
 - 🎯 Gerçek dünya senaryolarına yönelik yazılımlar üretiyor, staj ve kariyer fırsatları arıyorum.
 
